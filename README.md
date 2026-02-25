@@ -1,93 +1,69 @@
-# Hi 👋, I'm Herbert Souza
+# Oi 👋, eu sou Matheus Carvalho
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
-🇧🇷 Brazil
+💻 Desenvolvedor Front-end em formação | JavaScript & React
+ Americana – SP
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+**Sou estudante de tecnologia e desenvolvedor em início de carreira**, com foco em **desenvolvimento web moderno**.
+Tenho experiência com **JavaScript, React e interfaces responsivas, sempre buscando escrever código organizado, limpo e fácil de manter.**
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+Atualmente, estou me aprofundando em frontend, boas práticas de desenvolvimento e fundamentos de arquitetura de aplicações, com o objetivo de **crescer profissionalmente na área de TI.**
+
+Tenho interesse em oportunidades como **Jovem Aprendiz, estágio ou projetos onde eu possa aprender na prática e evoluir como desenvolvedor.**
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/MatheusKCarvalho">
+    <img src="https://img.shields.io/badge/GitHub-MatheusKcarvalho-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.linkedin.com/in/matheusdecarvalho10/">
+    <a href="https://www.linkedin.com/in/matheusdecarvalho10/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-MatheusKcarvalho-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzIiIGhlaWdodD0iNzIiIHZpZXdCb3g9IjAgMCA3MiA3MiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iNzIiIGhlaWdodD0iNzIiIHJ4PSI4IiBmaWxsPSIjMEE2NkMyIi8+PHBhdGggZD0iTTE5IDE5aDEwVjUzaC0xMFYxOXptNS0xNGE2IDYgMCAxIDEgMCAxMiA2IDYgMCAwIDEgMC0xMnptMTQgMTRoOS41djQuNmguMWE4LjUgOC41IDAgMCAxIDcuNy00LjNjNS4yIDAgOS4xIDMuNCA5LjEgMTAuN1Y1M2gtMTBWMzguOWMwLTMuNS0xLjItNS44LTQuMy01LjgtMi4zIDAtMy42IDEuNi00LjIgMy4xLS4yLjUtLjMuOC0uMyAxLjNWNTNoLTEwVjMzem0wIDB6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==" />
+</a>
   </a>
-  <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
-  </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+
+  
 </p>
 
 ---
 
-## 🧠 What I do
+## 🧠 O que eu faço
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
+- 🌐 Desenvolvimento de interfaces web
+
+- ⚛️ Criação de aplicações com React
+
+- 🎨 Layouts responsivos (mobile e desktop)
+
+- 🧠 Lógica de programação com JavaScript
+
+- 🔧 Versionamento de código com Git
+
+- 📚 Estudo contínuo de frontend e boas práticas
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológico
 
 ### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
 
-### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
-### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+### Ferramentas
+
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Philosophy
-
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
-
----
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+⭐ Se curtiu meu trabalho, considera dar uma estrela em algum repositório  
+🤝 Sempre aberto a colaborações, parcerias e ideias legais
